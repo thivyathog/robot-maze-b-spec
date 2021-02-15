@@ -5,4 +5,11 @@ It contains the Machine : Robot and Maze
 
 A graphical Representation of the maze and the robot is given below, this is created using an animation function.
 
-![Initial view](./intial.png)
+Intital State of the system using animation function: 
+
+![Initial view](./images/intial.png)
+
+
+Final State of the system using animation function
+
+![Final view](./images/final.png)
